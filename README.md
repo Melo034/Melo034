@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Sierra Leone</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;,Welcome+to+my+GitHub+profile!;My+name+is+Joseph+Melvin+Kanu;Self-taught+Software+Developer,;Engineer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;Welcome+to+my+GitHub+profile!;My+name+is+Joseph+Melvin+Kanu;Self-taught+Software+Developer,;Engineer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 # 💫 About Me:
@@ -182,7 +182,7 @@
 <br/>
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
