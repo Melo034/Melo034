@@ -10,7 +10,7 @@
 
 - 💻 I'm a  self-taught full stack software developer
 
-- 🎓 I'm an Electrical and Electroni Engineer
+- 🎓 I'm an Electrical and Electronic Engineer
   
 - 🌱 I’m currently learning **Rust, Java, web3**
 
