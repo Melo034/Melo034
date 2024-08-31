@@ -149,7 +149,7 @@
 </p>        
 <!--- stats (end) -->
 <br>	
-<h3 align="center">Trophy:</h3>
+<h3 align="center">Ok, before you go</h3>
 <br>	
 <h4 align="center">
   
