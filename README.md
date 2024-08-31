@@ -150,7 +150,9 @@
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
-
+<br>	
+<h3 align="center">Trophy:</h3>
+<br>	
 <h4 align="center">
   
 ```diff
@@ -182,8 +184,17 @@
 <br/>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  
+
+-----
+Credits: [Yasmeen Brain](https://github.com/Melo034)
+
+Last Edited on: 31/08/2024
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
