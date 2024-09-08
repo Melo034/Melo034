@@ -150,6 +150,8 @@
 <!--- stats (end) -->
 <br>	
 <h3 align="center">Ok, before you go</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>	
 <h4 align="center">
   
