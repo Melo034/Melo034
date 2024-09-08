@@ -30,6 +30,8 @@
 
 <br>	
 
+[![](https://visitcount.itsvg.in/api?id=Melo034&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="center">Connect with me:</h3>
 <br>	
 <div align="center">
